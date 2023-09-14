@@ -1,16 +1,16 @@
 {
-  "name": "@j4viermora/videjs-react",
+  "name": "@j4viermora/videojs-react",
   "private": true,
   "version": "1.0.0",
   "source": "src/index.tsx",
   "main": "dist/index.js",
   "type": "module",
   "types": "dist/types.d.ts",
-  "module": "./dist/videjs-react.es.js",
+  "module": "./dist/videojs-react.es.js",
   "exports": {
     ".": {
-      "import": "./dist/videjs-react.es.js",
-      "require": "./dist/videjs-react.umd.js"
+      "import": "./dist/videojs-react.es.js",
+      "require": "./dist/videojs-react.umd.js"
     }
   },
   "scripts": {
