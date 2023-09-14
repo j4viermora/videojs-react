@@ -47,12 +47,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j4viermora/videjs-react"
+    "url": "git+https://github.com/j4viermora/videojs-react"
   },
   "bugs": {
-    "url": "https://github.com/j4viermora/videjs-react/issues"
+    "url": "https://github.com/j4viermora/videojs-react/issues"
   },
-  "homepage": "https://github.com/j4viermora/videjs-react/issues#readme",
+  "homepage": "https://github.com/j4viermora/videojs-react/issues#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
